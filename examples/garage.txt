@@ -1,0 +1,33 @@
+# Garage door flood barrier, 2 courses of bags across the threshold
+[bags]
+length = 0.60 m
+width = 0.40 m
+height = 0.15 m
+fill = 75%
+per_pack = 50
+pack_price = 14.90
+
+[sand]
+density = 1600 kg/m3
+price_per_tonne = 38.00
+delivery = 45.00
+
+[site]
+flood_depth = 0.45 m
+freeboard = 0.30 m
+stagger = yes
+spare = 5%
+crew = 2
+bags_per_hour = 18
+
+[wall threshold]
+length = 3.2 m
+thickness = 0.40 m
+height = 0.60 m
+openings = none
+
+[wall side]
+length = 2.5 m
+thickness = 0.40 m
+height = 0.45 m
+openings = 0.9 m
